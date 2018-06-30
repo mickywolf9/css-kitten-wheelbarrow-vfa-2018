@@ -3,7 +3,7 @@
 .kitty-1/*__write_selector_here__*/ {
   position: absolute;
   z-index: 1;
-  top: 276px;
+  top: 288px;
   left: 150px;
 }
 
@@ -12,7 +12,7 @@
 #kitty-2/*__write_selector_here__*/ {
   position: absolute;
   z-index: 2;
-  top: 276px;
+  top: 290px;
   left: 369px;
 }
 
@@ -21,7 +21,7 @@
 #basket /*__write_selector_here__*/ {
   position: absolute;
   z-index: 1;
-  top: 270px;
+  top: 280px;
   left: 120px;
 }
 
@@ -30,7 +30,7 @@
 #ball /*__write_selector_here__*/ {
   position: absolute;
   z-index: 4;
-  top: 205px;
+  top: 270px;
   left: 300px;
 }
 
@@ -39,6 +39,6 @@
 .kitty-5 /*__write_selector_here__*/ {
   position: absolute;
   z-index: 3;
-  top: 217px;
-  left: 223px;
+  top: 280px;
+  left: 350px;
 }
